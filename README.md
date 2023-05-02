@@ -6,7 +6,7 @@
         <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="300"/>
   </div>    
   <div>
-    <img src="https://komarev.com/ghpvc/?username=QasimRRizvi&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=QasimRRizvi&style=flat&color=orange&label=Profile+Views" alt=""/>
   </div>
 
 <!--   ### Badges
