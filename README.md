@@ -2,21 +2,29 @@
 <link rel="stylesheet" href="devicon.min.css">
 <div id="header" align="center">
   <div>
-    <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100"/>
+<!--     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100"/> -->
+        <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="300"/>
   </div>    
   <div>
     <img src="https://komarev.com/ghpvc/?username=QasimRRizvi&style=flat-square&color=blue" alt=""/>
   </div>
-  <br />
-### Badges
 
+<!--   ### Badges
+  <div>
+    <img src="https://github.com/users/QasimRRizvi/achievements/pull-shark" alt="Badge"/>
+  </div> -->
+  <br />
   <b>My GitHub Stats</b>
   <br />
+  <br />
   <a href="http://www.github.com/QasimRRizvi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahir08&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimRRizvi&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   <br />
   
+  <h1>Hi there 👋</h1>
+  <p>I have been working in the software industry since 2016, and I am constantly learning and exploring new technologies to improve my skills and stay current with industry trends.</p>
+</div>
 - 💬 Ask me about Software Development and Modern Technologies
 - 📫 How to reach me: 
   <div id="badges">
@@ -30,10 +38,6 @@
 
 - 😄 Pronouns: qa-sim
 - ⚡ Fun fact: I didn't want to enroll in BS-CS
-  
-  <h1>Hi there 👋</h1>
-  <p>I have been working in the software industry since 2016, and I am constantly learning and exploring new technologies to improve my skills and stay current with industry trends.</p>
-</div>
 
 ## :hammer_and_wrench: Languages and Tools :
 
