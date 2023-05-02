@@ -25,14 +25,15 @@
   <h1>Hi there 👋</h1>
   <p>I have been working in the software industry since 2016, and I am constantly learning and exploring new technologies to improve my skills and stay current with industry trends.</p>
 </div>
+
 - 💬 Ask me about Software Development and Modern Technologies
 - 📫 How to reach me: 
   <div id="badges">
     <a href="https://www.linkedin.com/in/imqasimrizvi">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/qasimrizvi1212">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 
