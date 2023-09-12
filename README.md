@@ -38,7 +38,7 @@
   </div>
 
 - 😄 Pronouns: qa-sim
-- ⚡ Fun fact: I didn't want to enroll in BS-CS
+- ⚡ Fun fact: I didn't want to enroll in Computer Science's Bachelor Program, but now CS is my love <3
 
 ## :hammer_and_wrench: Languages and Tools :
 
