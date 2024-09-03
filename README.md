@@ -3,7 +3,8 @@
 <div id="header" align="center">
   <div>
 <!--     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100"/> -->
-        <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="300"/>
+<!--         <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="300"/> -->
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVhZ3l0N2R3cHZtcTdtc2tnc2EyZ3c1eTVvbDlkZ3BidHllY2luYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="300"/>
   </div>    
   <div>
     <img src="https://komarev.com/ghpvc/?username=QasimRRizvi&style=flat&color=orange&label=Profile+Views" alt=""/>
