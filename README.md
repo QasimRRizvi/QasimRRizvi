@@ -33,9 +33,9 @@
     <a href="https://www.linkedin.com/in/imqasimrizvi">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/qasimrizvi1212">
+<!--     <a href="https://twitter.com/qasimrizvi1212">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> -->
   </div>
 
 - 😄 Pronouns: qa-sim
