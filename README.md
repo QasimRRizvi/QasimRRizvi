@@ -24,7 +24,7 @@
   <br />
   
   <h1>Hi there 👋</h1>
-  <p>I have been working in the software industry since 2016, and I am constantly learning and exploring new technologies to improve my skills and stay current with industry trends.</p>
+  <p>Senior Software Engineer with over 9 years’ experience designing and shipping high‑performance web & mobile products. Expert in JavaScript/TypeScript (React, Node.js), cloud‑native architecture, and scalable APIs. Known for turning complex requirements into elegant, maintainable solutions and for leading cross‑functional teams to deliver production‑ready features that drive user growth and revenue.</p>
 </div>
 
 - 💬 Ask me about Software Development and Modern Technologies
@@ -32,6 +32,12 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/imqasimrizvi">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.upwork.com/freelancers/imqasimraza">
+      <img src="https://img.shields.io/badge/upwork-green" alt="Upwork Badge"/>
+    </a>
+    <a href="mailto:syed.rizvi2385@gmail.com">
+      <img src="https://img.shields.io/badge/email-orange" alt="Upwork Badge"/>
     </a>
 <!--     <a href="https://twitter.com/qasimrizvi1212">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -70,7 +76,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ### Others
