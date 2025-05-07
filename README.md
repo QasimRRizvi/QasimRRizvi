@@ -22,10 +22,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimRRizvi&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   <br />
-  
-  <h1>Hi there 👋</h1>
-  <p>Senior Software Engineer with over 9 years’ experience designing and shipping high‑performance web & mobile products. Expert in JavaScript/TypeScript (React, Node.js), cloud‑native architecture, and scalable APIs. Known for turning complex requirements into elegant, maintainable solutions and for leading cross‑functional teams to deliver production‑ready features that drive user growth and revenue.</p>
 </div>
+<h1>Hi there 👋</h1>
+  <p>Senior Software Engineer with over 9 years’ experience designing and shipping high‑performance web & mobile products. Expert in JavaScript/TypeScript (React, Node.js), cloud‑native architecture, and scalable APIs. Known for turning complex requirements into elegant, maintainable solutions and for leading cross‑functional teams to deliver production‑ready features that drive user growth and revenue.</p>
 
 - 💬 Ask me about Software Development and Modern Technologies
 - 📫 How to reach me: 
